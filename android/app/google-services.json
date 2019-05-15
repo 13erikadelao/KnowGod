@@ -1,50 +1,43 @@
 {
   "project_info": {
-    "project_number": "776692511570",
-    "firebase_url": "https://elaniinreactnativecore.firebaseio.com",
-    "project_id": "elaniinreactnativecore",
-    "storage_bucket": "elaniinreactnativecore.appspot.com"
+    "project_number": "150257952068",
+    "firebase_url": "https://pokemontres-dc240.firebaseio.com",
+    "project_id": "pokemontres-dc240",
+    "storage_bucket": "pokemontres-dc240.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:776692511570:android:54b0ff81ddf0a279",
+        "mobilesdk_app_id": "1:150257952068:android:a0df8ae2f70a3cfb",
         "android_client_info": {
-          "package_name": "com.elaniin.core"
+          "package_name": "com.elaniin.knowgod.android"
         }
       },
       "oauth_client": [
         {
-          "client_id": "776692511570-h9g2g569nbj6fmdhvi6l5cddjm6compo.apps.googleusercontent.com",
+          "client_id": "150257952068-ovgtvu0jkvigrc2qfjp1t8nbf1jucrhv.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.elaniin.core",
-            "certificate_hash": "2cd2e9ed58ddfe848a4e342c717d638f049c9905"
+            "package_name": "com.elaniin.knowgod.android",
+            "certificate_hash": "30270a2a7d1bf19420d6576eb28694767eca316c"
           }
         },
         {
-          "client_id": "776692511570-jdd8905n5iob9k0h90c0qp23opht5pe3.apps.googleusercontent.com",
+          "client_id": "150257952068-rk5ri8vthb0asqhono5frpf49br75100.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCVu_E4pm10YCNoQjQnzrRrbm7tLoVwSu4"
+          "current_key": "AIzaSyByrqgJIplHmBqn4opgNVgvQztV7h2FocI"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "776692511570-jdd8905n5iob9k0h90c0qp23opht5pe3.apps.googleusercontent.com",
+              "client_id": "150257952068-u0n2ir19kc9st0rgleuidhisjo54hh03.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "776692511570-gs4flh8ge0c1di94cpu76ngoc854fafa.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.elaniin.core"
-              }
             }
           ]
         }
